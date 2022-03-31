@@ -1,0 +1,51 @@
+#header {
+    height: 100px;
+    background-color: blue;
+}
+
+
+#container {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+/* #container div {
+    border: 1px black solid;
+    width: 1000px;
+    
+} */
+
+
+
+#crystal-ball {
+    background-image: url('images/crystal_ball.jpeg');
+    background-size: 1000px;
+    background-repeat:no-repeat;
+    height: 600px;
+    width: 1000px;
+
+
+}
+
+#description {
+   border: 1px black solid;
+   width: 1000px;
+ 
+}
+
+#input-field {
+    border: 1px black solid;
+    width: 1000px;
+    
+}
+
+
+
+
+#footer {
+    background-color: blue;
+    height: 100px;
+}
